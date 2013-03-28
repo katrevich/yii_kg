@@ -19,92 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="_form.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/_form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="75" selection-start="1177" selection-end="1177" vertical-scroll-proportion="-22.038462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CategoryController.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/CategoryController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1356" selection-end="1356" vertical-scroll-proportion="0.356213">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/config/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="32" selection-start="516" selection-end="517" vertical-scroll-proportion="-11.115385">
-              <folding>
-                <marker date="1364407278946" expanded="true" signature="1119:1123" placeholder="..." />
-                <marker date="1364407278946" expanded="true" signature="1309:1325" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/layouts/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="-4.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/models/Category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="5" selection-start="735" selection-end="735" vertical-scroll-proportion="-15.692307">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/add.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="26" selection-start="150" selection-end="150" vertical-scroll-proportion="-3.9230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/update.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="23" selection-start="195" selection-end="195" vertical-scroll-proportion="-3.9230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="161" selection-start="490" selection-end="490" vertical-scroll-proportion="-7.1923075">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SettingsController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/SettingsController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="13" selection-start="1348" selection-end="1488" vertical-scroll-proportion="-25.961538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -119,30 +34,33 @@
         <option value="$PROJECT_DIR$/protected/modules/admin/views/settings/index.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/controllers/SettingsController.php" />
         <option value="$PROJECT_DIR$/protected/models/ChangePasswordForm.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/category/update.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/category/add.php" />
-        <option value="$PROJECT_DIR$/protected/models/Category.php" />
         <option value="$PROJECT_DIR$/protected/components/CImageHandler.php" />
         <option value="$PROJECT_DIR$/protected/config/main.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/layouts/main.php" />
-        <option value="$PROJECT_DIR$/protected/modules/admin/views/category/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/controllers/CategoryController.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admin/views/category/index.php" />
         <option value="$PROJECT_DIR$/protected/modules/admin/views/category/_form.php" />
+        <option value="$PROJECT_DIR$/protected/models/Category.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
     <include_path>
-      <path value="C:\wamp\www\git_local\framework" />
+      <path value="." />
+      <path value="C:\php\pear" />
+      <path value="" />
+      <path value="C:\WebServers\home\git_local\www\framework" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="43" />
+    <option name="y" value="56" />
+    <option name="width" value="1264" />
+    <option name="height" value="894" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -522,22 +440,22 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.fileTypes" />
+    <property name="options.lastSelected" value="reference.webide.settings.project.settings.php" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../framework" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="PublishConfig" serverName="yii_kg" serverId="b20928a4-8d57-4ff9-9f12-e8a9293124d3">
+  <component name="PublishConfig" serverName="yii_kg" serverId="8f3dcf22-6c8b-4a73-80a5-8fc66368c7ab">
     <servers>
-      <server id="b20928a4-8d57-4ff9-9f12-e8a9293124d3">
+      <server id="6159b5b6-f1ff-474a-8c85-0fe1df84eb15">
+        <serverdata />
+      </server>
+      <server id="8f3dcf22-6c8b-4a73-80a5-8fc66368c7ab">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
-      </server>
-      <server id="f5903468-4025-4a43-a1c6-265c622f9b8b">
-        <serverdata />
       </server>
     </servers>
   </component>
@@ -587,14 +505,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="43" y="56" width="1264" height="894" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.6707589" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28369385" sideWeight="0.6707589" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -677,103 +595,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/models/ChangePasswordForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="1" selection-start="909" selection-end="909" vertical-scroll-proportion="0.72426033">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="49" selection-start="636" selection-end="636" vertical-scroll-proportion="-14.384615">
-          <folding />
-        </state>
+        <state line="36" column="1" selection-start="909" selection-end="909" vertical-scroll-proportion="0.72426033" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="74" selection-start="890" selection-end="890" vertical-scroll-proportion="-15.038462">
-          <folding />
-        </state>
+        <state line="23" column="74" selection-start="890" selection-end="890" vertical-scroll-proportion="-15.038462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/settings/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="1071" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="1071" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/SettingsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="13" selection-start="1348" selection-end="1488" vertical-scroll-proportion="-25.961538">
-          <folding />
-        </state>
+        <state line="49" column="13" selection-start="1348" selection-end="1488" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/CImageHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="679" column="36" selection-start="21296" selection-end="21296" vertical-scroll-proportion="-12.884615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/update.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="23" selection-start="195" selection-end="195" vertical-scroll-proportion="-3.9230769">
-          <folding />
-        </state>
+        <state line="6" column="23" selection-start="195" selection-end="195" vertical-scroll-proportion="0.11525424" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="150" selection-end="150" vertical-scroll-proportion="-3.9230769">
+        <state line="6" column="26" selection-start="150" selection-end="150" vertical-scroll-proportion="0.11525424" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="0.13446328" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="32" selection-start="516" selection-end="517" vertical-scroll-proportion="0.01920904" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="49" selection-start="636" selection-end="636" vertical-scroll-proportion="0.42259887">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/models/Category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="5" selection-start="735" selection-end="735" vertical-scroll-proportion="-15.692307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/components/CImageHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="679" column="36" selection-start="21296" selection-end="21296" vertical-scroll-proportion="-12.884615">
-          <folding>
-            <element signature="e#10#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="-4.576923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="32" selection-start="516" selection-end="517" vertical-scroll-proportion="-11.115385">
-          <folding>
-            <marker date="1364407278946" expanded="true" signature="1119:1123" placeholder="..." />
-            <marker date="1364407278946" expanded="true" signature="1309:1325" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="161" selection-start="490" selection-end="490" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/_form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="75" selection-start="1177" selection-end="1177" vertical-scroll-proportion="-22.038462">
+        <state line="42" column="106" selection-start="928" selection-end="1022" vertical-scroll-proportion="-9.192307">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/modules/admin/controllers/CategoryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1356" selection-end="1356" vertical-scroll-proportion="0.356213">
+        <state line="42" column="18" selection-start="928" selection-end="928" vertical-scroll-proportion="-0.056497175">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="81" selection-start="411" selection-end="411" vertical-scroll-proportion="0.23050848">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admin/views/category/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="73" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.6926554">
           <folding />
         </state>
       </provider>
