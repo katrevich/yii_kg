@@ -1,0 +1,91 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	background: #f0f0f0;
+	font: normal 12px arial, sans-serif;
+}
+
+.clear:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+
+#admin {
+	width: 960px;
+	margin: 0 auto;
+	min-height: 100%;
+	background: #fff;
+}
+
+#admin .side {
+	width: 180px;
+	float: left;
+	margin-left: -100%;
+}
+#admin .side ul {
+	list-style: none;
+	padding: 5px 10px;
+}
+
+#admin .main {
+	width: 100%;
+	float: left;
+}
+#admin .main-in {
+	padding: 5px 5px 5px 200px;
+}
+
+
+#admin form label {
+	display: block;
+	padding-bottom: 5px;
+}
+#admin form .row {
+	padding-bottom: 15px;
+}
+#admin form .form-title {
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+#admin form .btn {
+	padding: 3px 12px;
+	font-weight: bold;
+	cursor: pointer;	
+}
+
+#admin form input[type=text],
+#admin form input[type=password],
+#admin form textarea {
+	padding: 4px 8px;
+	border: 1px solid  #ccc;
+	width: 500px;
+	font: normal 12px arial, sans-serif;
+}
+
+#admin form input[type=text].short,
+#admin form input[type=password].short,
+#admin form textarea.short{
+	width: 200px;
+}
+
+#admin form input[type=text].error,
+#admin form input[type=password].error,
+#admin form textarea.error{
+	border-color: #ff0000;
+	-webkit-box-shadow: 0 0 3px rgba(255,0,0,.8);
+	-moz-box-shadow: 0 0 3px rgba(255,0,0,.8);
+	box-shadow: 0 0 3px rgba(255,0,0,.8);
+}
+
+#admin form textarea {
+	height: 60px;
+}
