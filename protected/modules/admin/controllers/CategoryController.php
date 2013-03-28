@@ -38,23 +38,9 @@ class CategoryController extends Controller
 
         if (isset($_POST['Category'])){
             $model->attributes = $_POST['Category'];
-
-            $model->logo_file = CUploadedFile::getInstance($model, 'logo_file');
-
-            $savePath = Yii::app()->basePath.'/../uploads/';
-
             if ($model->validate()){
-                $model->logo_file->saveAs($savePath.'original_'.$model->logo_file->name);
-
-                $ih = new CImageHandler();
-                $ih->load($savePath . 'original_'.$model->logo_file->name)
-                    ->adaptiveThumb(50, 50)
-                    ->save($savePath . 'thumb_50x50_'.$model->logo_file->name);
-
-                $model->logo = $model->logo_file->name;
-
                 $model->save();
-                $this->redirect($this->createUrl('index'));
+                //$this->redirect($this->createUrl('index'));
             }
         }
 
