@@ -35,7 +35,7 @@
 <div class="row">
     <?php echo $form->labelEx($model,'logo'); ?>
     <?php if($model->logo): ?>
-    <p><?php echo CHtml::image(Yii::app()->baseUrl.'/uploads/thumb_50x50_'.$model->logo); ?></p>
+    <p><?php echo CHtml::image(Yii::app()->baseUrl.'/uploads/thumb_50x50/'.$model->logo); ?></p>
     <?php endif; ?>
     <?php echo $form->fileField($model,'logo_file'); ?>
     <?php echo $form->error($model,'logo'); ?>
