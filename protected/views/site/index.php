@@ -1,2 +1,3 @@
 index view of the site<br>
-lol
+lol<br>
+rofl
